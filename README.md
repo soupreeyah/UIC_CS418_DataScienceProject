@@ -10,17 +10,17 @@ Predicting multiclass genres , by various models and comparing accuracies.
 
 Files Required to run :
 Files required to upload for initial dataset creation are :
-● raw_echonest.csv - contains features
-● tracks.csv - Contains genre label , with track id
-● Merge_Genre.csv - Cleaned file
+- raw_echonest.csv - contains features
+- tracks.csv - Contains genre label , with track id
+- Merge_Genre.csv - Cleaned file
 
 Modules Required :
 Modules required to print the decision tree
-● Graphviz-python
-● Pydot
+- Graphviz-python
+- Pydot
 Install through the following steps for conda :
-● conda install graphviz-python
-● conda install pydot
+- conda install graphviz-python
+- conda install pydot
 
 Output Expected :
 EDA Analysis graphs, Models and their accuracies, comparison plot of the accuracies.
