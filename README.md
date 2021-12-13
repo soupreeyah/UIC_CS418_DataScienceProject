@@ -1,8 +1,8 @@
 # UIC_CS418_DataScienceProject
 Music Genre Analysis 
-Title : Music Genre Prediction
-Description:
-Predicting multiclass genres , by various models and comparing accuracies.
+ Title : Music Genre Prediction
+ Description:
+ Predicting multiclass genres , by various models and comparing accuracies.
 - Input features such as
 - Acousticness, Danceability and more
 - Output Genres such as
